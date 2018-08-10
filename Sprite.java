@@ -4,7 +4,7 @@ import java.awt.Color;
 import java.awt.Graphics;
 
 /*
- * Name: Maria Sitkovets and Saadia Mendil
+ * Name: Maria Sitkovets and Saadia 
  * Date: 4/5/2018
  * Teacher: Mr. Naccarato 
  * Course: ICS 4U
