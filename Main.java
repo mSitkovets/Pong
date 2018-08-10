@@ -23,7 +23,7 @@ import javax.swing.JPopupMenu;
 import javax.swing.SwingConstants;
 
 /*
- * Name: Maria Sitkovets and Saadia Mendil
+ * Name: Maria Sitkovets and Saadia 
  * Date: 4/6/2018
  * Teacher: Mr. Naccarato 
  * Course: ICS 4U
