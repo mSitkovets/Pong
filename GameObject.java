@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /*
- * Name: Maria Sitkovets and Saadia Mendil
+ * Name: Maria Sitkovets and Saadia
  * Date: 4/5/2018
  * Teacher: Mr. Naccarato 
  * Course: ICS 4U
